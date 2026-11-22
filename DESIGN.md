@@ -1,5 +1,5 @@
 ---
-name: ResearchHub Digest
+name: OmniQuivis Digest
 description: Weekly AI research digests printed as a numbered two-ink risograph bulletin.
 colors:
   pink: "#FF48B0"
@@ -126,7 +126,7 @@ components:
     padding: "34px clamp(20px, 4vw, 56px) 40px"
 ---
 
-# Design System: ResearchHub Digest
+# Design System: OmniQuivis Digest
 
 ## Overview
 

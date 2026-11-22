@@ -10,9 +10,9 @@ web
 
 Jekyll, built by GitHub Pages itself (no Actions build, no plugins beyond the
 GitHub Pages whitelist). Handwritten layouts, includes and CSS; no stock theme.
-Each digest is pushed by the ResearchHub API as structured data (front matter /
+Each digest is pushed by the OmniQuivis API as structured data (front matter /
 data files) that the layouts render. The design lives in this repository
-(`Al-Kuroshi/ResearchHub-digests`); the ResearchHub code repo only pushes
+(`OmniQuivis/OmniQuivis.github.io`); the OmniQuivis code repo only pushes
 content.
 
 ## Users
@@ -22,13 +22,13 @@ content.
 - **Public readers** following AI and software research, who come back weekly
   to see what was worth knowing.
 - **People evaluating the project** (employers, peers): the digests are proof
-  of what ResearchHub produces, and the site credits and links back to the
+  of what OmniQuivis produces, and the site credits and links back to the
   project (github.com/Al-Kuroshi/ResearchHub).
 
 ## Product Purpose
 
-ResearchHub Digest is the public home of ResearchHub's weekly digests. Each
-week ResearchHub collects posts, releases and videos from followed sources,
+OmniQuivis Digest is the public home of OmniQuivis's weekly digests. Each
+week OmniQuivis collects posts, releases and videos from followed sources,
 summarises them with LLMs, and writes combined insights across them. The site
 presents each digest and keeps an archive. Success: a reader gets the week in a
 few minutes, can follow any claim to the item and original source behind it,
@@ -69,12 +69,12 @@ numbered items it comes from, which link to the original sources.
 
 ## Brand Commitments
 
-- Name: **ResearchHub Digest**.
-- Project name ResearchHub, licensed AGPL-3.0, by Al-Kuroshi.
+- Name: **OmniQuivis Digest**.
+- Project name OmniQuivis, licensed AGPL-3.0, by Al-Kuroshi.
 
 ## Evidence on Hand
 
-- Real digests exist in the ResearchHub database (digest_runs); real topics,
+- Real digests exist in the OmniQuivis database (digest_runs); real topics,
   sources (Fireship, Two Minute Papers, GameStop, SpiritOfTheLaw).
 - No logo, no imagery, no testimonials or subscriber numbers. Do not invent
   any.

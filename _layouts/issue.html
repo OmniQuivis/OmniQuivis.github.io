@@ -127,7 +127,7 @@ layout: default
     <section class="row" id="suggested" aria-labelledby="h-suggested">
       <div class="col">
         <h2 id="h-suggested">Suggested sources</h2>
-        <p class="note">Sources ResearchHub found this week that it doesn't follow yet: linked from the items, or suggested for a topic with little coverage.</p>
+        <p class="note">Sources OmniQuivis found this week that it doesn't follow yet: linked from the items, or suggested for a topic with little coverage.</p>
         <ul class="sugg">
           {%- for s in page.suggestions %}
           <li><a href="{{ s.url }}">{{ s.name | escape }}</a> <span class="sugg-type">{{ s.type }}</span>{% if s.reason_html != "" %}<span class="sugg-r">{{ s.reason_html }}</span>{% endif %}</li>

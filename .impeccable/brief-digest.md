@@ -6,7 +6,7 @@ archive grouped by digest), plus a short About page. Mode: Read.
 ## Audience and job
 
 The owner, public readers following AI/software research, and people
-evaluating ResearchHub. Job: get the week in minutes, follow any [n] to the item
+evaluating OmniQuivis. Job: get the week in minutes, follow any [n] to the item
 and its original source, find past issues by digest and date.
 
 ## Direction contract
@@ -30,7 +30,7 @@ STORY: The reader sees which issue this is and what the week was about in one
 look, reads the overview and insights, taps any [n] to land on the item with
 its source, and can move to the previous issue or the archive.
 
-FIRST VIEWPORT: Pink flood masthead with "ResearchHub Digest" knocked out in
+FIRST VIEWPORT: Pink flood masthead with "OmniQuivis Digest" knocked out in
 paper and the issue number huge in blue overprint at right; nav top right. Under
 it the blue issue band. Then three columns: contents rail (230px, current
 section marked in pink), the reading column (680px: headline, overview, first

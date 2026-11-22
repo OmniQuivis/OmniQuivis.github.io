@@ -2,15 +2,15 @@
 layout: page
 title: About
 permalink: /about/
-description: What ResearchHub Digest is, how each issue is made, and what to trust in it.
+description: What OmniQuivis Digest is, how each issue is made, and what to trust in it.
 ---
 
-ResearchHub Digest is the public archive of the weekly digests made by
-[ResearchHub]({{ site.project_url }}), a self-hosted research aggregator.
+OmniQuivis Digest is the public archive of the weekly digests made by
+[OmniQuivis]({{ site.project_url }}), a self-hosted research aggregator.
 
 ## How an issue is made
 
-1. **Collected.** Every day ResearchHub checks the blogs (RSS), GitHub
+1. **Collected.** Every day OmniQuivis checks the blogs (RSS), GitHub
    repositories (their releases) and YouTube channels it follows for anything
    new.
 2. **Summarised.** Each new item is read once, in full (the article, the
@@ -35,9 +35,9 @@ There can be several digests, each covering its own sources or topics. The
 
 ## The project
 
-ResearchHub is open source under the AGPL-3.0 license:
+OmniQuivis is open source under the AGPL-3.0 license:
 [{{ site.project_url | remove: "https://" }}]({{ site.project_url }}). It runs
 on a small home server, uses free models through OpenRouter, and keeps only
 summaries, embeddings, links and video transcripts, never full articles.
 
-ResearchHub Digest isn't affiliated with the sources it summarises.
+OmniQuivis Digest isn't affiliated with the sources it summarises.

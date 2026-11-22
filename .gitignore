@@ -5,7 +5,7 @@ _site/
 vendor/
 Gemfile.lock
 
-# the local design sample; real digests are pushed by the ResearchHub API
+# the local design sample; real digests are pushed by the OmniQuivis API
 _digests/design-preview/
 
 # design-tool working files (screenshots, mockups)

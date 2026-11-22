@@ -1,14 +1,14 @@
-# ResearchHub Digest
+# OmniQuivis Digest
 
-The public archive of [ResearchHub](https://github.com/Al-Kuroshi/ResearchHub)'s
-weekly digests: https://al-kuroshi.github.io/ResearchHub-digests/
+The public archive of [OmniQuivis](https://github.com/Al-Kuroshi/ResearchHub)'s
+weekly digests: https://omniquivis.github.io/
 
 This repository is the site. GitHub Pages builds it with Jekyll; there is no
 build step of our own.
 
 ## How content gets here
 
-The ResearchHub API publishes each digest after it is sent to Discord, as one
+The OmniQuivis API publishes each digest after it is sent to Discord, as one
 file in `_digests/<digest>/<date>-<number>.md`. The file is front matter only:
 the whole digest as structured data (JSON, which YAML front matter accepts).
 The layouts render it. Text fields ending in `_html` are already escaped by the
@@ -40,7 +40,7 @@ With Docker, using the same Jekyll version GitHub Pages uses:
 ```bash
 docker run --rm -v "$PWD:/site" -v rh_pages_gems:/usr/local/bundle -w /site -p 4000:4000 \
   ruby:3.3 sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0"
-# then open http://localhost:4000/ResearchHub-digests/
+# then open http://localhost:4000/
 ```
 
 Design notes live in `PRODUCT.md`, `DESIGN.md` and `.impeccable/` (not part of

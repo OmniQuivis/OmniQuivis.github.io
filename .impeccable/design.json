@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "generatedAt": "2026-11-10T13:30:00Z",
-  "title": "Design System: ResearchHub Digest",
+  "title": "Design System: OmniQuivis Digest",
   "extensions": {
     "colorMeta": {
       "pink": { "role": "primary", "displayName": "Fluorescent Pink", "canonical": "#FF48B0", "tonalRamp": ["#4A0A2E", "#7A0F4B", "#AD1368", "#E0137E", "#FF48B0", "#FF7DC6", "#FFB3DD", "#FFE3F2"] },
@@ -48,7 +48,7 @@
       "kind": "nav",
       "refersTo": "masthead",
       "description": "Pink flood with the title in overprint navy and the issue numeral in blue multiplied over the flood (issue pages and home only).",
-      "html": "<header class=\"ds-mast\"><nav class=\"ds-mast-nav\"><a href=\"#\" aria-current=\"page\">Issues</a><a href=\"#\">About</a><a href=\"#\">GitHub</a></nav><a class=\"ds-mast-title\" href=\"#\">ResearchHub<br>Digest</a><span class=\"ds-mast-no\" aria-hidden=\"true\">28</span></header>",
+      "html": "<header class=\"ds-mast\"><nav class=\"ds-mast-nav\"><a href=\"#\" aria-current=\"page\">Issues</a><a href=\"#\">About</a><a href=\"#\">GitHub</a></nav><a class=\"ds-mast-title\" href=\"#\">OmniQuivis<br>Digest</a><span class=\"ds-mast-no\" aria-hidden=\"true\">28</span></header>",
       "css": ".ds-mast { position: relative; overflow: hidden; isolation: isolate; background: var(--pink, #FF48B0); padding: 24px 32px 28px; min-height: 200px; display: flex; flex-direction: column; justify-content: space-between; } .ds-mast-nav { position: relative; z-index: 3; align-self: flex-end; display: flex; gap: 24px; font: 700 13px/1 'JetBrains Mono', monospace; letter-spacing: .1em; text-transform: uppercase; } .ds-mast-nav a { color: var(--ink, #1D2340); text-decoration: none; padding: 6px 0; border-bottom: 2px solid transparent; } .ds-mast-nav a:hover, .ds-mast-nav a[aria-current] { border-bottom-color: var(--ink, #1D2340); } .ds-mast-nav a:focus-visible { outline: 3px solid var(--blue, #0078BF); outline-offset: 2px; } .ds-mast-title { position: relative; z-index: 1; width: max-content; font: 900 64px/.86 Archivo, 'Arial Narrow', sans-serif; font-stretch: 118%; letter-spacing: -.035em; color: var(--overprint, #002284); text-decoration: none; text-shadow: 2px 1px 0 rgba(0, 120, 191, .38); } .ds-mast-no { position: absolute; right: 28px; bottom: -.17em; font: 900 200px/1 Archivo, sans-serif; font-stretch: 72%; letter-spacing: -.04em; color: var(--blue, #0078BF); mix-blend-mode: multiply; font-variant-numeric: tabular-nums; }"
     },
     {
